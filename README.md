@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Giulia. I'm a Ph.D. Candidate in Telecommunications Engineering at University of Bologna, Italy
+- 👀 I’m interested in Smart Radio Environments for 6G networks and Intelligent Surfaces
+- 📫 How to reach me: g.torcolacci@unibo.it 
+- 💡 Connect on Linkedin: https://it.linkedin.com/in/giulia-torcolacci
